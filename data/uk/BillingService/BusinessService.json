@@ -13,7 +13,7 @@
       "isBillAmendmentEnabled": "true",
       "hasOnlinePayment": true,
       "billGineiURL": "egov-searcher/bill-genie/billswithaddranduser/_get"
-    
+    },
     {
       "businessService": "WaterCharges",
       "code": "WC",
